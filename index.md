@@ -10,3 +10,5 @@ Wenn Du also etwas über das Thema GIT wissen willst, dann bist Du hier genau ri
 
 
 > Das Eine hat mit dem Anderen nichts zu tun und doch hängt alles zusammen
+
+<img src="https://www.zib.de/sites/default/files/styles/colwidth-two/public/torvalds.jpg?itok=VewpJapA"/>
